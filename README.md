@@ -9,5 +9,5 @@ I plan to upload the site to the hosting pythonanywhere.com.
 
 ### Site appearance
 Screenshot of one of the pages of the site:
-<p><img src="screenshot.png" width=800></p>
+<p><img src="screenshot.png" width=1000></p>
    
