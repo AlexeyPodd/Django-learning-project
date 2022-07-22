@@ -5,7 +5,7 @@ A site that I made, repeating after the course teacher. Posted on github as a wa
 The structure is standard for the Django framework.
 
 ### Hosting
-I plan to upload the site to the hosting pythonanywhere.com.
+I have upload the site to the hosting pythonanywhere.com.
 
 You can <a href="http://alexpod.pythonanywhere.com">visit the site</a> until Friday 21 October 2022.
 
