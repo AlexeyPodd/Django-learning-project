@@ -7,7 +7,7 @@ The structure is standard for the Django framework.
 ### Hosting
 I plan to upload the site to the hosting pythonanywhere.com.
 
-You can <a href="http://alexpod.pythonanywhere.com">view the site</a> until Friday 21 October 2022.
+You can <a href="http://alexpod.pythonanywhere.com">visit the site</a> until Friday 21 October 2022.
 
 ### Site appearance
 Screenshot of one of the pages of the site:
